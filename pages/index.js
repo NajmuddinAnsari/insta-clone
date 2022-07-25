@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Header from '../components/Header'
 
 
 export default function Home() {
@@ -11,7 +12,9 @@ export default function Home() {
       </Head>
 
       <main >
-        <h1 className='bg-red-500'>hoho</h1>
+        <Header />
+        
+        
       </main>
 
       {/* <footer></footer> */}
