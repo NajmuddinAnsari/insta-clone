@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main >
-        <h1>hoho</h1>
+        <h1 className='bg-red-500'>hoho</h1>
       </main>
 
       {/* <footer></footer> */}
